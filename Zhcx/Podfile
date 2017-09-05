@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+target :Zhcx do
+    pod 'AFNetworking';
+    pod 'BaiduMapKit'; #百度地图SDK
+    pod 'UMengUShare/Social/ReducedWeChat'; #集成微信
+    pod 'UMengUShare/Social/ReducedQQ'; #集成QQ
+    pod 'UMengUShare/Social/ReducedSina'; #集成新浪微博
+    pod 'UMengAnalytics';
+    pod 'Masonry';
+    pod 'MBProgressHUD';
+    pod 'UICKeyChainStore';
+end
