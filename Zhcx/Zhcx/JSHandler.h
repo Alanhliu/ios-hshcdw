@@ -18,7 +18,8 @@
     比如对于下面的OC方法，JS调用时
     javascript.sayHelloToWithGreeting(参数1，参数2) //正确写法
     javascript.sayHelloTowithGreeting(参数1，参数2) //错误写法
- */
+*/
+
 //- (void)sayHelloTo:(NSString *)name WithGreeting:(NSString *)greeting;
 
 #pragma mark - methods for js
